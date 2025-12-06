@@ -39,7 +39,8 @@ Modern, optimized Python client for downloading zone files via ICANN's Centraliz
 ## 🍺 Beer Token 
 **If this script helped you download terabytes of zone files without losing sanity, consider sending me a beer. My server runs better when I'm hydrated.** 
 - PayPal: https://www.paypal.com/paypalme/IvailoYanachkov 
-- Revolut: http://revolut.me/yanachkov 
+- Revolut: http://revolut.me/yanachkov
+  
 **Not required, but always appreciated. 🙂**
 
 ## 📬 Contact
